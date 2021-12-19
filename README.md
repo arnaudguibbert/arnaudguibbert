@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there 👋 I am Arnaud Guibbert
+
+🌱 I’m currently doing a master's degree in microengeenering & data science at EPFL.
+
+🔭 In parallel I am also Teaching assistant in the Applied Machine Class at EPFL, and I am intern at Procsim. 
+
 
 <!--
 **arnaudguibbert/arnaudguibbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
