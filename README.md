@@ -19,7 +19,7 @@
 
 - **Intern @ [Procsim](https://procsim.ch/language/en/home/) - Optimization and Operations research** 
 
-    - *Optimization of operating rooms schedules - 3D simulation **[Flexsim](https://www.flexsim.com/)** - Implementation and development of algorithms with **Python** & **C++***
+    - *Optimization of operating rooms schedules - 3D simulation **[Flexsim](https://www.flexsim.com/)** - Schedule optimization **Python** & **C++***
 
 - **Teaching Assistant**
   - **[Applied Machine Learning](https://edu.epfl.ch/coursebook/fr/applied-machine-learning-MICRO-455)** @ EPFL.
