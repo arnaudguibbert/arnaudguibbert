@@ -36,7 +36,7 @@
 
 ## 📫 Contact me
 
-arnaud.guibbert@epfl.ch - [Linkedin](http://www.linkedin.com/in/agcs/) - [CV]()
+arnaud.guibbert@epfl.ch - [Linkedin](http://www.linkedin.com/in/agcs/) - [CV](CV.pdf)
 <!--
 **arnaudguibbert/arnaudguibbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
